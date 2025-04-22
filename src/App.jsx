@@ -36,7 +36,7 @@ const animeData = [
     "id": "5",
     "movieName": "Shingeki no kyojin",
     "description": "Câu chuyện của Đại chiến Titan tập trung vào một nền văn minh bên trong ba bức tường đồ sộ quây tròn đồng tâm, nơi được cho là duy nhất mà nhân loại còn tồn tại. Ba bức tường được đặt tên theo tên ba người con gái của vị vua đầu tiên có tên là Maria, Rose và Sina. Người dân ở đó, được gọi là dân tộc Eldia, đã tin rằng hơn một trăm năm trước, loài người đã bị đẩy đến bờ vực tuyệt chủng sau sự xuất hiện của những người khổng lồ hình dáng con người, được gọi là Titan.",
-    "image": "https://miro.medium.com/v2/resize:fit:1200/1*xBjk6covwPeNKNzlwcJmCw.png",
+    "image": "https://japancitytour.com/wp-content/uploads/2021/02/shingeki-no-Kyojin_02.jpg",
     "episode": "28"
   },
   {
